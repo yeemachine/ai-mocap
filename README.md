@@ -25,18 +25,6 @@ This course introduces the basics of MediaPipe, a framework for building machine
 - A code editor (VS Code, Sublime Text, etc.)
 - A GitHub account
 
-## Attendance Policy:
-- Attendance is mandatory for all sessions
-- Absences must be excused in advance by email
-- More than two unexcused absences will result in a 10% deduction from the final grade
-- Tardiness of more than 15 minutes will count as an absence
-
-## Grading Policy:
-- Assignments: 40%
-- Quizzes: 20%
-- Final Project: 30%
-- Participation: 10%
-
 ## Course Outline:
 
 | Week | Topic | Activity | Assignment | Due Date |
@@ -46,12 +34,5 @@ This course introduces the basics of MediaPipe, a framework for building machine
 | 3 | Hand Detection and Tracking | Lecture: How does hand detection and tracking work? <br> Demo: Hand landmarks and gestures <br> Lab: Apply hand effects using OpenGL ES | Quiz 2: Face and Hand Detection | Week 4 |
 | 4 | Pose Detection and Tracking | Lecture: How does pose detection and tracking work? <br> Demo: Pose landmarks and segmentation <br> Lab: Apply pose effects using OpenGL ES | Assignment 2: Create a body filter | Week 5 |
 | 5 | Web Integration and Deployment | Lecture: How to use TensorFlow.js and WebGL with MediaPipe <br> Demo: Run and render MediaPipe in the browser <br> Lab: Design and implement your final project | Final Project: Create a web-based video effect experience | Week 6 |
-
-## Academic Integrity Policy:
-- All work submitted must be your own original work
-- No plagiarism or cheating is allowed
-- Any violation of academic integrity will result in a zero grade for the assignment or quiz, and may result in further disciplinary action
-
-I hope this is what you were looking for. If you need more help, please let me know. 😊
 
 
