@@ -34,6 +34,6 @@ This course introduces the basics of MediaPipe and Tensorflow.js, two powerful f
 | 3 | Hand Detection and Tracking | Lecture: How does hand detection and tracking work? <br> Demo: Hand landmarks and gestures <br> Lab: Apply hand effects using WebGL | Assignment 2: Create an AR hand effect |
 | 4 | Pose Detection and Tracking | Lecture: How does pose detection and tracking work? <br> Demo: Pose landmarks and segmentation <br> Lab: Apply pose effects using Pixi.js, Three.js, or P5.js | Assignment 3: Create an app that uses the whole body |
 | 5 | Web Integration and Deployment | Lecture: How to use TensorFlow.js and WebGL with MediaPipe <br> Demo: Run and render MediaPipe in the browser <br> Lab: Design and implement your final project | Final Project: Create a web-based video effect experience |
-| 6 | Final Critique | Presentations: Demo Day! Present your final projects to the class. We'll discuss and critique as a group. | Have fun co-creating with AI! |
+| 6 | Final Critique | Presentations: Demo Day! Present your final projects to the class. We'll discuss and critique as a group. | Keep co-creating with AI! |
 
 
