@@ -23,7 +23,7 @@ This course introduces the basics of MediaPipe and Tensorflow.js, two powerful f
 - A computer with a webcam and a microphone
 - A web browser that supports WebGL (Chrome, Firefox, Safari, etc.)
 - A code editor (VS Code, Sublime Text, etc.)
-- A GitHub account
+- A GitHub account or Glitch account
 
 ## Course Outline:
 
