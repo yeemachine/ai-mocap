@@ -27,12 +27,13 @@ This course introduces the basics of MediaPipe, a framework for building machine
 
 ## Course Outline:
 
-| Week | Topic | Activity | Assignment | Due Date |
-|------|-------|----------|------------|----------|
-| 1 | Introduction to MediaPipe | Lecture: What is MediaPipe and why use it? <br> Demo: Hello World with MediaPipe <br> Lab: Set up your development environment | Quiz 1: MediaPipe Basics | Week 2 |
-| 2 | Face Detection and Mesh | Lecture: How does face detection and mesh work? <br> Demo: Face landmarks and contours <br> Lab: Apply face effects using OpenGL ES | Assignment 1: Create a face filter | Week 3 |
-| 3 | Hand Detection and Tracking | Lecture: How does hand detection and tracking work? <br> Demo: Hand landmarks and gestures <br> Lab: Apply hand effects using OpenGL ES | Quiz 2: Face and Hand Detection | Week 4 |
-| 4 | Pose Detection and Tracking | Lecture: How does pose detection and tracking work? <br> Demo: Pose landmarks and segmentation <br> Lab: Apply pose effects using OpenGL ES | Assignment 2: Create a body filter | Week 5 |
-| 5 | Web Integration and Deployment | Lecture: How to use TensorFlow.js and WebGL with MediaPipe <br> Demo: Run and render MediaPipe in the browser <br> Lab: Design and implement your final project | Final Project: Create a web-based video effect experience | Week 6 |
+| Week | Topic | Activity | Assignment |
+|------|-------|----------|------------|
+| 1 | Introduction to MediaPipe | Lecture: What is MediaPipe and why use it? <br> Demo: Hello World with MediaPipe <br> Lab: Set up your development environment | Quiz 1: MediaPipe Basics |
+| 2 | Face Detection and Mesh | Lecture: How does face detection and mesh work? <br> Demo: Face landmarks and contours <br> Lab: Apply face effects using OpenGL ES | Assignment 1: Create a face filter |
+| 3 | Hand Detection and Tracking | Lecture: How does hand detection and tracking work? <br> Demo: Hand landmarks and gestures <br> Lab: Apply hand effects using OpenGL ES | Quiz 2: Face and Hand Detection |
+| 4 | Pose Detection and Tracking | Lecture: How does pose detection and tracking work? <br> Demo: Pose landmarks and segmentation <br> Lab: Apply pose effects using OpenGL ES | Assignment 2: Create a body filter |
+| 5 | Web Integration and Deployment | Lecture: How to use TensorFlow.js and WebGL with MediaPipe <br> Demo: Run and render MediaPipe in the browser <br> Lab: Design and implement your final project | Final Project: Create a web-based video effect experience |
+| 6 | Final Critique and Sharing | Lecture: How to use TensorFlow.js and WebGL with MediaPipe <br> Demo: Run and render MediaPipe in the browser <br> Lab: Design and implement your final project | Have fun co-creating with AI! |
 
 
