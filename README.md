@@ -2,7 +2,7 @@
 
 - Instructor: Richard Yee
 - Email: mocap@yeemachine.com
-- Office hours: Book on Slack
+- Office hours: Book on
 
 ## Course Description:
 This course introduces the basics of MediaPipe and Tensorflow.js, two powerful frameworks for building machine learning pipelines for processing video and images. You will learn how to create real-time video effects using face, hand, and pose detection. You will also learn how to use web technologies like WebGL to run and render your effects in the browser. Although this course will be taught using web technologies, you are welcome to explore other languages since the frameworks we will be covering are cross-platform. By the end of this course, you will be able to create your own experiences that leverage MediaPipe and other tools for your design projects.
