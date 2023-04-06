@@ -1,4 +1,4 @@
-# Course Syllabus: Co-Creating with AI: Motion Capture Effects for Designers
+# Course Syllabus: Co-Creating with AI: Motion Capture for Designers
 
 ## Instructor: 
 - Name: 
@@ -6,7 +6,7 @@
 - Office hours:
 
 ## Course Description:
-This course introduces the basics of MediaPipe, a framework for building machine learning pipelines for processing time-series data like video[^1^][4]. You will learn how to use MediaPipe to create real-time video effects using face, hand, and pose detection[^2^][3]. You will also learn how to use web technologies like TensorFlow.js and WebGL to run and render your effects in the browser. By the end of this course, you will be able to create your own web experience that leverages MediaPipe and other tools for interactive and creative applications.
+This course introduces the basics of MediaPipe and Tensorflow.js, two powerful frameworks for building machine learning pipelines for processing video and images. You will learn how to create real-time video effects using face, hand, and pose detection. You will also learn how to use web technologies like WebGL to run and render your effects in the browser. Although this course will be taught using web technologies, you are welcome to explore other languages since the frameworks we will be covering are cross-platform. By the end of this course, you will be able to create your own experiences that leverage MediaPipe and other tools for your design projects.
 
 ## Prerequisites:
 - Basic web development knowledge (HTML, CSS, JavaScript)
