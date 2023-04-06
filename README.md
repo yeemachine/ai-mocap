@@ -1,4 +1,4 @@
-Co-Creating with AI: Motion Capture for Designers
+# Co-Creating with AI: Motion Capture for Designers
 
 ## Contact: 
 - Name: Richard Yee
