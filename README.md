@@ -15,7 +15,7 @@ This course introduces the basics of MediaPipe, a framework for building machine
 ## Course Objectives:
 - Understand the principles and components of MediaPipe
 - Use MediaPipe Face Mesh, Hand Tracking, and Pose Tracking solutions
-- Apply video effects using OpenGL ES and GPU calculators[^3^][1]
+- Apply video effects using WebGL frameworks like Three.js, Pixi.js, P5.js etc
 - Integrate MediaPipe with TensorFlow.js and WebGL
 - Design and implement a web-based video effect project
 
