@@ -1,7 +1,7 @@
 # Course Syllabus: Co-Creating with AI: Motion Capture for Designers
 
-## Instructor: 
-- Name: 
+## Contact: 
+- Name: Richard Yee
 - Email: mocap@yeemachine.com
 - Office hours: 
 
