@@ -14,7 +14,7 @@ This course introduces the basics of MediaPipe and Tensorflow.js, two powerful f
 ## Course Objectives:
 - Understand the principles and components of MediaPipe
 - Use MediaPipe Face Mesh, Hand Tracking, and Pose Tracking solutions
-- Apply video effects using WebGL frameworks like Three.js, Pixi.js, P5.js etc
+- Apply video effects using your preferred graphics frameworks
 - Integrate MediaPipe with TensorFlow.js and WebGL
 - Design and implement a web-based video effect project
 
@@ -28,7 +28,7 @@ This course introduces the basics of MediaPipe and Tensorflow.js, two powerful f
 
 | Week | Topic | Activity | Assignment |
 |------|-------|----------|------------|
-| 1 | Introduction to MediaPipe | Lecture: What is MediaPipe and why use it? <br> Demo: Hello World with MediaPipe <br> Lab: Set up your development environment + Intro to useful rendering frameworks (Pixi.js, P5.js, Three.js etc) | Assignment 0: Think of 3 potential mocap project ideas and start setting up your own dev environment |
+| 1 | Introduction to MediaPipe | Lecture: What is MediaPipe and why use it? <br> Demo: Hello World with MediaPipe <br> Lab: Set up your development environment + Intro to useful graphics frameworks | Assignment 0: Think of 3 potential mocap project ideas and start setting up your own dev environment |
 | 2 | Face Detection and Mesh | Lecture: How does face detection and mesh work? <br> Demo: Face landmarks and contours <br> Lab: Apply face effects using WebGL | Assignment 1: Create a face filter |
 | 3 | Hand Detection and Tracking | Lecture: How does hand detection and tracking work? <br> Demo: Hand landmarks and gestures <br> Lab: Apply hand effects using WebGL | Assignment 2: Create an AR hand effect |
 | 4 | Pose Detection and Tracking | Lecture: How does pose detection and tracking work? <br> Demo: Pose landmarks and segmentation <br> Lab: Apply pose effects using WebGL | Assignment 3: Create an app that uses the whole body |
