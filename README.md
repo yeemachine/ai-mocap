@@ -1,4 +1,4 @@
-# Co-Creating with AI: Motion Capture for Designers
+AI Motion Capture for Designers
 
 - Instructor: Richard Yee
 - Email: mocap@yeemachine.com
