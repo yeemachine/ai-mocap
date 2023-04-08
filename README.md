@@ -1,7 +1,7 @@
 # AI Motion Capture for Designers
 
 - Instructor: Richard Yee
-- Email: mocap@yeemachine.com
+- Email: rich@yeemachine.com
 - Office hours: Book on
 
 ## Course Description:
