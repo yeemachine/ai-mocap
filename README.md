@@ -1,6 +1,6 @@
 # AI Motion Capture for Designers
 ![Drawing of a person controlling an avatar with motion capture](https://github.com/yeemachine/ai-mocap/blob/main/ai-mocap-landscape.gif?raw=true)
-- Instructor: Rich Yee
+- Instructor: Richard Yee
 - Email: rich@yeemachine.com
 - Office hours: Message on Slack
 
